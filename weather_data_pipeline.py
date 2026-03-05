@@ -4,7 +4,7 @@ import datetime
 import csv
 import os
 
-API_Key = "e23a17b41e7f033d384213479fb75a89"
+API_Key = API_Key = "your_real_key_here"
 
 Zip_Codes = ["84321", "84790", "84302", "84101", "84060"]
 
